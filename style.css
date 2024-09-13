@@ -1,0 +1,31 @@
+#mylabel{
+    font-size: 4em;
+    text-align: center
+}
+.second{
+    margin-left: 350px;
+    margin-bottom: 100px;
+    
+    
+}
+button{
+    cursor: pointer;
+    background-color: aqua;
+    color: red;
+    font-size: 2em;
+    margin-left: 50px;
+    transition: background-color 0.25s;
+    font-family: verdana;
+}
+.main{
+
+    border: 3px solid black;
+    border-radius: 12px;
+    background-color: antiquewhite;
+    width: 750px;
+    margin-left: 400px;
+    
+}
+.button{
+    margin-bottom: 100px;
+}
